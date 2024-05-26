@@ -1,6 +1,3 @@
-<html>
-    <title>games</title>
-    <body style="background-color:lightblue;">
         <header style="text-align:center">
              <h1 style="color:blue;font-size:50px"> <img src="http://learn.logikaschool.com/uploads/2020/10/soldier_0_1603274414.png" weight="30px" height="30px">
           CS2</h1>
@@ -23,5 +20,3 @@
         </table>
         </main>
         <footer style="text-align:center;font-size:20px">дякую за відвідування мій номер +096553786</footer>
-    </body>
-</html>
