@@ -2,7 +2,7 @@
     <title>games</title>
     <body style="background-color:lightblue;">
         <header style="text-align:center">
-             <h1 style="color:blue;font-size:50px"> <img src="https://learn.logikaschool.com/uploads/2020/10/soldier_0_1603274414.png" weight="30px" height="30px">
+             <h1 style="color:blue;font-size:50px"> <img src="http://learn.logikaschool.com/uploads/2020/10/soldier_0_1603274414.png" weight="30px" height="30px">
           CS2</h1>
             <img src="https://upload.wikimedia.org/wikipedia/uk/thumb/5/58/CounterStrike2.jpg/375px-CounterStrike2.jpg"width="200px"height="200px">
         </header>
