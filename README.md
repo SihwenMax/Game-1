@@ -22,6 +22,6 @@
             </tr>
         </table>
         </main>
-        <footer>дякую за відвідування мій номер +096553786</footer>
+        <footer style="text-align:center;font-size:20px">дякую за відвідування мій номер +096553786</footer>
     </body>
 </html>
